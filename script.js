@@ -1,4 +1,6 @@
-var lastname = "Nom:Doe\n";
-var firstname  = "Prénom:John\n";
-var city = "Ville:New York";
-alert(lastname +firstname +city);
+//Déclaration des variables et assignation de leurs valeurs.
+var lastname = 'Doe';
+var firstname  = 'John';
+var city = 'New-York';
+alert('Non : ' + lastname  + '\n' + 'Prénom : ' + firstname   + '\n' + 'Ville : ' + city);
+//affichage des variables avec concaténation
